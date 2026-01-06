@@ -32,7 +32,8 @@ def survivedlist():  #function1 存活名單
    
 
     
-  def deceasedlist():  #function2 死亡名單
+        
+def deceasedlist():  #function2 死亡名單
 
     global deceasedmale,deceasedfmale
     
@@ -137,10 +138,36 @@ def final_result():# 總匯整
     
     
     
+   
+    
+    
+    
+    
+    
 final_result()
     
 
     
    
     
-     
+    
+    
+    
+
+        
+    
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+#survivedlist("titanic_train.csv")        
